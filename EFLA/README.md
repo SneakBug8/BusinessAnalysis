@@ -1,5 +1,7 @@
 # How to ask for a raise with the EFLA matrix
 
+![](efla.jpg)
+
 EFLA stands for **Excellent, Fine, Low, Absent**. This method is similar to a SWOT (strengths, weaknesses, opportunities, and threats) analysis often used in Business Analysis. However, with EFLA, you evaluate skills of a person. It can be you, or a subordinate, for example.
 
 1. To perform the analysis, first, **assemble a list of competencies** that are either essential for your position or your employer wants to see.
